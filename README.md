@@ -50,6 +50,6 @@ Fake_Pinterest/
 
 ## Deploy
 
-Cheque o deploy do projeto no Heroku: [FakePinterest](https://fakepinterest.herokuapp.com/).
+Cheque o deploy do projeto no Heroku: [FakePinterest](https://fake-pinterest-a24aae7cd238.herokuapp.com/).
 
 ---
