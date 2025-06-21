@@ -1,4 +1,4 @@
-# FakePinterest
+# Fake Pinterest
 
 FakePinterest é um projeto educacional que replica funcionalidades básicas do Pinterest utilizando Flask. O objetivo é demonstrar conceitos de desenvolvimento web, autenticação de usuários, upload de imagens e manipulação de banco de dados.
 
